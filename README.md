@@ -4,4 +4,4 @@ Genera tablas de multiplicar
 
 ```````
 npm install
-``````
+```````
